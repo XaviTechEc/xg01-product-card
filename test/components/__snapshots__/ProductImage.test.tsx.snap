@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Must show external img src 1`] = `
+<img
+  alt="Product Img"
+  className="productImg undefined"
+  src="https://source.unsplash.com/random"
+/>
+`;
+
+exports[`ProductImage Must show img with the img of a product 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product Img"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
