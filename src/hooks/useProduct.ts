@@ -28,7 +28,7 @@ export const useProduct = ({
     isMounted.current = true;
   }, []);
 
-  const increaseBy = (value: number): void => {
+  const increaseBy = (value: number = 1): void => {
     let newValue = Math.max(counter + value, 0);
     if (initialValues?.maxCount) {
       newValue = Math.min(newValue, initialValues.maxCount);
