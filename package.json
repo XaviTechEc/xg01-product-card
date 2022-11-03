@@ -70,12 +70,11 @@
     "size-limit": "^8.1.0",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.1",
-    "typescript": "^4.8.4"
-  },
-  "dependencies": {
+    "typescript": "^4.8.4",
     "@types/react-test-renderer": "^18.0.0",
     "postcss": "^8.4.18"
   },
+  "dependencies": {},
   "keywords": [
     "product",
     "card",
