@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/XaviTechEc/xg01-product-card",
   "engines": {
-    "node": ">=14"
+    "node": ">=10"
   },
   "scripts": {
     "start": "tsdx watch",
